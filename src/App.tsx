@@ -142,7 +142,7 @@ function App() {
       <Lock className="w-16 h-16 text-purple-600 mx-auto mb-4" />
       <h2 className="text-2xl font-bold text-gray-800 mb-6">Your Password</h2>
       <div className="bg-gray-100 p-4 rounded-lg mb-6">
-        <p className="font-mono text-xl">FreeKaMal2024</p>
+        <p className="font-mono text-xl">02082025013</p>
       </div>
       <div className="bg-blue-50 p-4 rounded-lg">
         <p className="text-sm text-blue-600">
